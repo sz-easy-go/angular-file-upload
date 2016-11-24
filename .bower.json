@@ -1,0 +1,19 @@
+{
+  "name": "angular-file-upload",
+  "homepage": "https://github.com/VanMess/angular-file-upload",
+  "_release": "22cec62026",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "22cec620266e1e6ed956d04ec9eba9ab0c6dfe66"
+  },
+  "_source": "git://github.com/shenzhen-easy-go/angular-file-upload.git",
+  "_target": "*",
+  "_originalSource": "shenzhen-easy-go/angular-file-upload",
+  "_cacheHeaders": {
+    "ETag": "\"56205499-20ff\"",
+    "Last-Modified": "Fri, 16 Oct 2015 01:36:25 GMT",
+    "Content-Length": "8447",
+    "Content-Type": "application/zip"
+  }
+}
